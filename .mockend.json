@@ -1,6 +1,8 @@
 {
   "Schema": {
-    "type": "object",
+    "type": {
+      "string": ["object"]
+    },
     "name": {
       "string": {}
     }
